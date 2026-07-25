@@ -52,23 +52,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshpatel-dev&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
----
-
-### 🐍 Contribution Snake (animated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suryanshpatel-dev/suryanshpatel-dev/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
-> Ye animation apne aap nahi banega — niche waala GitHub Action setup karna hoga (ek baar).
-
----
-
 ### 👁️ Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryanshpatel-dev&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer" width="100%"/>
 
