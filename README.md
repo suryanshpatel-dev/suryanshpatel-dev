@@ -15,6 +15,26 @@
 
 ---
 
+### 🖥️ whoami
+
+```bash
+suryansh@dev:~$ whoami
+> Suryansh Patel — B.Tech CSE | Cybersecurity & Networking
+
+suryansh@dev:~$ cat goals.txt
+> Aspiring Government Technical Officer
+
+suryansh@dev:~$ ./current_focus.sh
+> [x] Computer Vision
+> [x] AI/ML
+> [ ] Cyber-HUB collaborators wanted
+
+suryansh@dev:~$ echo $CONTACT
+> suryanshpatelx@gmail.com
+```
+
+---
+
 ### 🚀 About Me
 
 - 🔭 Currently working on **Computer Vision**
@@ -49,11 +69,42 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshpatel-dev&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshpatel-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%"/>
 </p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suryanshpatel-dev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" alt="trophies"/>
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshpatel-dev&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake (animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suryanshpatel-dev/suryanshpatel-dev/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+> Ye tabhi dikhega jab `.github/workflows/snake.yml` push + Actions run ho chuka ho.
+
+---
 
 ### 👁️ Profile Views
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suryanshpatel-dev&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer" width="100%"/>
 
