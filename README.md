@@ -72,15 +72,6 @@ suryansh@dev:~$ echo $CONTACT
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshpatel-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%"/>
 </p>
 
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suryanshpatel-dev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" alt="trophies"/>
-</p>
-
----
 
 ### 📈 Activity Graph
 
