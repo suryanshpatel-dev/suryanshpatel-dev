@@ -61,15 +61,6 @@ suryansh@dev:~$ echo $CONTACT
 
 ---
 
-### 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshpatel-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%"/>
-</p>
-
-
 ### 📈 Activity Graph
 
 <p align="center">
