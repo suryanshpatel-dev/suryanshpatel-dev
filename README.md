@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">A passionate [Your Role, e.g., Software Engineer / Data Scientist] from [Your Location]</h3>
+<h1 align="center">Hi there, I'm Suryansh Patel👋</h1>
+<h3 align="center">A passionate Cyber security engineering , Software Engineer / Data Structure  from Jaunpur </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/[YourLinkedIn]" target="_blank">
