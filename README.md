@@ -90,15 +90,6 @@ suryansh@dev:~$ echo $CONTACT
 
 ---
 
-### 🐍 Contribution Snake (animated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suryanshpatel-dev/suryanshpatel-dev/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
-> Ye tabhi dikhega jab `.github/workflows/snake.yml` push + Actions run ho chuka ho.
-
----
 
 ### 👁️ Profile Views
 
