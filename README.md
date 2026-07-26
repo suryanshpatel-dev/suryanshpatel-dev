@@ -1,80 +1,58 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Suryansh%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Computer%20Vision%20%7C%20AI/ML&descAlignY=55&descSize=18" width="100%"/>
-</p>
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h3 align="center">A passionate [Your Role, e.g., Software Engineer / Data Scientist] from [Your Location]</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+Cybersecurity+%26+Networking;Aspiring+Government+Technical+Officer;Currently+working+on+Computer+Vision;Currently+learning+AI%2FML;Building+cool+stuff+from+salvaged+hardware+%F0%9F%94%A7" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://youtube.com/@YOUR-CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:suryanshpatelx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/[YourLinkedIn]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/[YourTwitter]" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://[YourPortfolioWebsite.com]" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
-### 🖥️ whoami
+### 👨‍💻 About Me
 
-```bash
-suryansh@dev:~$ whoami
-> Suryansh Patel — B.Tech CSE | Cybersecurity & Networking
-
-suryansh@dev:~$ cat goals.txt
-> Aspiring Government Technical Officer
-
-suryansh@dev:~$ ./current_focus.sh
-> [x] Computer Vision
-> [x] AI/ML
-> [ ] Cyber-HUB collaborators wanted
-
-suryansh@dev:~$ echo $CONTACT
-> suryanshpatelx@gmail.com
-```
+- 🔭 I’m currently working on Computer Viss
+- 🌱 I’m currently learning **[Technology or Skill, e.g., Go, GraphQL, Machine Learning]**
+- 👯 I’m looking to collaborate on **[Type of projects, e.g., Open Source React Projects]**
+- 💬 Ask me about **[Your expertise, e.g., Python, System Design, CSS]**
+- 📫 How to reach me: **[Your Email]**
+- ⚡ Fun fact: **[Insert a brief, fun fact about yourself]**
 
 ---
 
-### 🚀 About Me
-
-- 🔭 Currently working on **Computer Vision**
-- 🌱 Currently learning **AI/ML**
-- 👯 Looking to collaborate on **AI & Image Processing**
-- 🤝 Looking for help with **Cyber-HUB**
-- 💬 Ask me about **C/C++, Web Development, AI**
-- ⚡ Fun fact: I love building cool projects, even from salvaged hardware!
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-### 📈 Activity Graph
+### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshpatel-dev&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
 
 ---
 
-
-### 👁️ Profile Views
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryanshpatel-dev&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer" width="100%"/>
+---
+
+### 🏆 Pinned Projects
+
+*If you don't want to use GitHub's default pinned projects, you can link them here manually:*
+
+- **[Project One](Link to repo)** - A brief description of what this project does and the tech stack used.
+- **[Project Two](Link to repo)** - A brief description of what this project does and the tech stack used.
 
