@@ -1,187 +1,86 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Suryansh%20patel&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cyber%20Security%20Student%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<!-- github-metrics-card.html — dark neon "maker metrics" card -->
-<div class="metrics-card">
-  <header class="mc-header">
-    <div class="mc-avatar">S</div>
-    <div>
-      <h1 class="mc-name">Suryansh</h1>
-      <p class="mc-sub">B.Tech CSE, VBSPU &nbsp;·&nbsp; Lab Assistant &nbsp;·&nbsp; Varanasi, UP</p>
-    </div>
-  </header>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=suryanshpatel-dev ">
+    <img src="https://komarev.com/ghpvc/?username=suryanshpatel-dev &label=Profile%20views&color=00FFFF&style=flat-square" alt="suryanshpatel-dev 's profile views" />
+  </a>
+</p>
 
-  <div class="mc-rule"></div>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
-  <section class="mc-stats">
-    <div class="mc-stat">
-      <div class="mc-ring" style="--pct:70"><span>7</span></div>
-      <p>Active Projects</p>
-    </div>
-    <div class="mc-stat">
-      <div class="mc-ring" style="--pct:50"><span>2</span></div>
-      <p>Domains: HW + SW</p>
-    </div>
-    <div class="mc-stat">
-      <div class="mc-ring" style="--pct:85"><span>Maker</span></div>
-      <p>Builds from salvage</p>
-    </div>
-    <div class="mc-stat">
-      <div class="mc-ring" style="--pct:90"><span>10+</span></div>
-      <p>Tools &amp; Stacks</p>
-    </div>
-  </section>
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/suryanshpatel-dev ">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suryanshpatel-dev &cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="suryanshpatel-dev 's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=suryanshpatel-dev &theme=dark&hide_border=true&cache_seconds=86400" alt="suryanshpatel-dev 's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=suryanshpatel-dev &theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Suryansh patel's GitHub Trophies" />
+</p>
 
-  <div class="mc-rule"></div>
 
-  <section class="mc-projects">
-    <h2>Featured Projects</h2>
-    <div class="mc-project-grid">
-      <div class="mc-card">
-        <h3>NestCloud</h3>
-        <p>Home server built from salvaged parts</p>
-      </div>
-      <div class="mc-card">
-        <h3>NetSentinel</h3>
-        <p>WiFi intrusion detection on ESP32</p>
-      </div>
-      <div class="mc-card">
-        <h3>Saathi AI</h3>
-        <p>Voice companion assistant</p>
-      </div>
-      <div class="mc-card">
-        <h3>Royal Kitchen POS</h3>
-        <p>Electron/React billing desktop app</p>
-      </div>
-      <div class="mc-card">
-        <h3>RC Trainer Aircraft v2</h3>
-        <p>Custom-built radio-controlled aircraft</p>
-      </div>
-      <div class="mc-card">
-        <h3>WhatsApp Automation Bots</h3>
-        <p>GPT-integrated chatbot automation</p>
-      </div>
-    </div>
-  </section>
+## 🛠️ Languages & Tools
 
-  <section class="mc-stack">
-    <h2>Tech Stack</h2>
-    <div class="mc-chips">
-      <span class="chip c1">Python</span>
-      <span class="chip c2">C</span>
-      <span class="chip c3">Node.js</span>
-      <span class="chip c4">React</span>
-      <span class="chip c1">SQL</span>
-      <span class="chip c2">Arduino</span>
-      <span class="chip c3">ESP32</span>
-      <span class="chip c4">ESP8266</span>
-      <span class="chip c1">Raspberry Pi</span>
-    </div>
-  </section>
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/suryanshpatel-dev ">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suryanshpatel-dev &langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/suryansh-patel-549ab3284 ">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/919219515310">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:suryanshpatelx@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.cockroach-techlab.online/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<style>
-  * { box-sizing: border-box; }
-
-  .metrics-card {
-    --bg1: #0f0c29;
-    --bg2: #1b1836;
-    --bg3: #24243e;
-    --accent1: #00ff9c;
-    --accent2: #00d4ff;
-    --line: #2c2856;
-    --sub: #9aa4b2;
-    --body: #d7dbe0;
-
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 32px;
-    border-radius: 16px;
-    background: linear-gradient(135deg, var(--bg1) 0%, var(--bg2) 55%, var(--bg3) 100%);
-    border: 1px solid rgba(0,255,156,0.25);
-    font-family: 'Courier New', Consolas, monospace;
-    color: var(--body);
-  }
-
-  .mc-header { display: flex; align-items: center; gap: 18px; }
-
-  .mc-avatar {
-    width: 60px; height: 60px; border-radius: 50%;
-    display: flex; align-items: center; justify-content: center;
-    font-size: 22px; font-weight: bold; color: #fff;
-    background: var(--bg1);
-    border: 2.5px solid transparent;
-    background-image: linear-gradient(var(--bg1), var(--bg1)), linear-gradient(135deg, var(--accent1), var(--accent2));
-    background-origin: border-box;
-    background-clip: padding-box, border-box;
-    flex-shrink: 0;
-  }
-
-  .mc-name { margin: 0 0 4px 0; font-size: 22px; color: #fff; }
-  .mc-sub { margin: 0; font-size: 13px; color: var(--sub); }
-
-  .mc-rule { height: 1px; background: var(--line); margin: 24px 0; }
-
-  .mc-stats {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 16px;
-    text-align: center;
-  }
-
-  .mc-stat p { margin: 12px 0 0 0; font-size: 12.5px; color: var(--sub); }
-
-  .mc-ring {
-    width: 80px; height: 80px;
-    margin: 0 auto;
-    border-radius: 50%;
-    display: flex; align-items: center; justify-content: center;
-    background:
-      radial-gradient(closest-side, var(--bg2) 79%, transparent 80% 100%),
-      conic-gradient(var(--accent1) calc(var(--pct) * 1%), var(--line) 0);
-    font-size: 15px; font-weight: bold; color: #fff;
-  }
-
-  .mc-projects h2, .mc-stack h2 {
-    font-size: 15px; color: var(--accent1); margin: 0 0 14px 0;
-  }
-
-  .mc-project-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 12px;
-  }
-
-  .mc-card {
-    background: #171433;
-    border: 1px solid var(--line);
-    border-radius: 8px;
-    padding: 10px 14px;
-    transition: border-color 0.2s ease, transform 0.2s ease;
-  }
-  .mc-card:hover {
-    border-color: var(--accent1);
-    transform: translateY(-2px);
-  }
-  .mc-card h3 { margin: 0 0 4px 0; font-size: 13px; color: var(--body); }
-  .mc-card p { margin: 0; font-size: 11px; color: var(--sub); }
-
-  .mc-stack { margin-top: 24px; }
-
-  .mc-chips { display: flex; flex-wrap: wrap; gap: 8px; }
-
-  .chip {
-    padding: 5px 14px;
-    border-radius: 999px;
-    font-size: 12px;
-    font-weight: bold;
-    color: var(--bg1);
-  }
-  .chip.c1 { background: var(--accent1); }
-  .chip.c2 { background: var(--accent2); }
-  .chip.c3 { background: #ff6ec7; }
-  .chip.c4 { background: #ffd166; }
-
-  @media (max-width: 640px) {
-    .mc-stats { grid-template-columns: repeat(2, 1fr); }
-    .mc-project-grid { grid-template-columns: 1fr; }
-  }
-</style>
