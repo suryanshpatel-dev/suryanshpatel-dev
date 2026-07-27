@@ -1,12 +1,18 @@
-<h1 align="center">Hi there, I'm Suryansh 👋</h1>
-
+<!-- Animated wave banner -->
 <p align="center">
-  B.Tech CSE @ VBSPU &nbsp;•&nbsp; Lab Assistant @ VBSPU &nbsp;•&nbsp; Maker & Builder
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0ea5e9&height=180&section=header&text=Hi%20there,%20I'm%20Suryansh%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<!-- Animated typing subtitle -->
+<p align="center">
+  <a href="https://github.com/suryanshpatel-dev">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+VBSPU;Lab+Assistant+%40+VBSPU;Hardware+%2B+Software+Maker;Builder+of+ESP32+%2C+RC+Aircraft+%26+Full-Stack+Apps" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Varanasi%2C%20UP-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Hardware%20%2B%20Software-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Varanasi%2C%20UP-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Hardware%20%2B%20Software-f97316?style=for-the-badge" />
 </p>
 
 ---
@@ -25,34 +31,37 @@
 
 | Project | Description |
 |---|---|
-| **NestCloud** | Home server built from salvaged parts + AI startup concept |
 | **NetSentinel** | WiFi intrusion detection system running on ESP32 |
-| **Saathi AI** | Voice companion assistant |
 | **Royal Kitchen POS** | Billing desktop app built with Electron/React |
-| **RC Trainer Aircraft (v2)** | Custom-built RC trainer aircraft |
 | **WhatsApp Automation Bots** | GPT-integrated WhatsApp chatbots |
+| **NestCloud** | Home server built from salvaged parts + AI startup concept |
+| **Saathi AI** | Voice companion assistant |
+| **RC Trainer Aircraft (v2)** | Custom-built RC trainer aircraft |
 
 ---
 
 ### 🧰 Tech Stack
 
-**Hardware:** Arduino · ESP32 · ESP8266 · Raspberry Pi · RC Aircraft Builds
-**Software:** Python · C · Node.js · React · SQL · Web Scraping
-**Tools:** Electron · Firebase · Git
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,py,c,nodejs,react,sqlite,electron,firebase,git" />
+</p>
 
 ---
 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryanshpatel-dev&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryanshpatel-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshpatel-dev&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshpatel-dev&theme=tokyonight&hide_border=true" />
 </p>
 
-
+<!-- Animated contribution snake (needs GitHub Actions setup - instructions below) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suryanshpatel-dev/suryanshpatel-dev/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -60,3 +69,6 @@
 
 Feel free to connect — always open to collaborating on hardware/software crossover projects.
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=100&section=footer" />
+</p>
