@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshpatel-dev&theme=dark&hide_border=true" />
 </p>
 
 > 📌 Replace `YOUR_USERNAME` above with your actual GitHub username to activate the live stats and streak cards.
