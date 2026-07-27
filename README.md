@@ -31,12 +31,11 @@
 
 | Project | Description |
 |---|---|
-| **NetSentinel** | WiFi intrusion detection system running on ESP32 |
 | **Royal Kitchen POS** | Billing desktop app built with Electron/React |
 | **WhatsApp Automation Bots** | GPT-integrated WhatsApp chatbots |
-| **NestCloud** | Home server built from salvaged parts + AI startup concept |
-| **Saathi AI** | Voice companion assistant |
-| **RC Trainer Aircraft (v2)** | Custom-built RC trainer aircraft |
+| **Devlop a website** |For VBSPU student |
+| **ESP32 Network Analysis** | Using esp32 analysis local area |
+
 
 ---
 
