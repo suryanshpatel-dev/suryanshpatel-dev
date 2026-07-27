@@ -25,10 +25,12 @@
 
 | Project | Description |
 |---|---|
+| **NestCloud** | Home server built from salvaged parts + AI startup concept |
 | **NetSentinel** | WiFi intrusion detection system running on ESP32 |
+| **Saathi AI** | Voice companion assistant |
 | **Royal Kitchen POS** | Billing desktop app built with Electron/React |
-| **WhatsApp Automation Bots Using AI** | GPT-integrated WhatsApp chatbots |
-|**Develop a website**| For VBSPU engineering student|
+| **RC Trainer Aircraft (v2)** | Custom-built RC trainer aircraft |
+| **WhatsApp Automation Bots** | GPT-integrated WhatsApp chatbots |
 
 ---
 
@@ -43,13 +45,16 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryanshpatel-dev&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshpatel-dev&theme=dark&hide_border=true" />
 </p>
 
+
+
+---
 
 ### 📫 Reach Me
 
