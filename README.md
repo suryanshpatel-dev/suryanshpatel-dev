@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Suryansh%20patel&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cyber%20Security%20Student%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=suryanshpatel-dev ">
-    <img src="https://komarev.com/ghpvc/?username=suryanshpatel-dev &label=Profile%20views&color=00FFFF&style=flat-square" alt="suryanshpatel-dev 's profile views" />
-  </a>
-</p>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
