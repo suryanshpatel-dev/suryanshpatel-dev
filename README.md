@@ -28,7 +28,7 @@
 | **NetSentinel** | WiFi intrusion detection system running on ESP32 |
 | **Royal Kitchen POS** | Billing desktop app built with Electron/React |
 | **WhatsApp Automation Bots Using AI** | GPT-integrated WhatsApp chatbots |
-|**Develop a website**| for vbspu engineering student|
+|**Develop a website**| For VBSPU engineering student|
 
 ---
 
