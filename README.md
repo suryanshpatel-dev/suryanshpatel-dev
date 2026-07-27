@@ -25,12 +25,10 @@
 
 | Project | Description |
 |---|---|
-| **NestCloud** | Home server built from salvaged parts + AI startup concept |
 | **NetSentinel** | WiFi intrusion detection system running on ESP32 |
-| **Saathi AI** | Voice companion assistant |
 | **Royal Kitchen POS** | Billing desktop app built with Electron/React |
-| **RC Trainer Aircraft (v2)** | Custom-built RC trainer aircraft |
-| **WhatsApp Automation Bots** | GPT-integrated WhatsApp chatbots |
+| **WhatsApp Automation Bots Using AI ** | GPT-integrated WhatsApp chatbots |
+|**Develop a website **| for vbspu engineering student|
 
 ---
 
@@ -52,9 +50,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshpatel-dev&theme=dark&hide_border=true" />
 </p>
 
-> 📌 Replace `YOUR_USERNAME` above with your actual GitHub username to activate the live stats and streak cards.
-
----
 
 ### 📫 Reach Me
 
