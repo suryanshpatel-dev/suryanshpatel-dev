@@ -1,113 +1,187 @@
-<svg width="900" height="480" viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f0c29"/>
-      <stop offset="55%" stop-color="#1b1836"/>
-      <stop offset="100%" stop-color="#24243e"/>
-    </linearGradient>
-    <linearGradient id="ring1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00ff9c"/>
-      <stop offset="100%" stop-color="#00d4ff"/>
-    </linearGradient>
-    <style>
-      .mono { font-family: 'Courier New', Consolas, monospace; }
-      .h1 { fill: #ffffff; font-weight: bold; }
-      .h2 { fill: #00ff9c; font-weight: bold; }
-      .sub { fill: #9aa4b2; }
-      .body { fill: #d7dbe0; }
-      .card { fill: #171433; stroke: #2c2856; stroke-width: 1; }
-      .chip { fill: #ffffff10; stroke: #00ff9c55; stroke-width: 1; }
-    </style>
-  </defs>
 
-  <rect width="900" height="480" rx="16" fill="url(#bg2)"/>
-  <rect x="1" y="1" width="898" height="478" rx="16" fill="none" stroke="#00ff9c" stroke-opacity="0.25"/>
+<!-- github-metrics-card.html — dark neon "maker metrics" card -->
+<div class="metrics-card">
+  <header class="mc-header">
+    <div class="mc-avatar">S</div>
+    <div>
+      <h1 class="mc-name">Suryansh</h1>
+      <p class="mc-sub">B.Tech CSE, VBSPU &nbsp;·&nbsp; Lab Assistant &nbsp;·&nbsp; Varanasi, UP</p>
+    </div>
+  </header>
 
-  <!-- header -->
-  <g class="mono">
-    <circle cx="60" cy="55" r="30" fill="#0f0c29" stroke="url(#ring1)" stroke-width="2.5"/>
-    <text x="60" y="63" text-anchor="middle" font-size="22" class="h1">S</text>
+  <div class="mc-rule"></div>
 
-    <text x="105" y="48" font-size="22" class="h1">Suryansh</text>
-    <text x="105" y="70" font-size="13" class="sub">B.Tech CSE, VBSPU  ·  Lab Assistant  ·  Varanasi, UP</text>
-  </g>
+  <section class="mc-stats">
+    <div class="mc-stat">
+      <div class="mc-ring" style="--pct:70"><span>7</span></div>
+      <p>Active Projects</p>
+    </div>
+    <div class="mc-stat">
+      <div class="mc-ring" style="--pct:50"><span>2</span></div>
+      <p>Domains: HW + SW</p>
+    </div>
+    <div class="mc-stat">
+      <div class="mc-ring" style="--pct:85"><span>Maker</span></div>
+      <p>Builds from salvage</p>
+    </div>
+    <div class="mc-stat">
+      <div class="mc-ring" style="--pct:90"><span>10+</span></div>
+      <p>Tools &amp; Stacks</p>
+    </div>
+  </section>
 
-  <line x1="30" y1="95" x2="870" y2="95" stroke="#2c2856" stroke-width="1"/>
+  <div class="mc-rule"></div>
 
-  <!-- stat rings -->
-  <g class="mono" text-anchor="middle">
-    <!-- ring template repeated -->
-    <g transform="translate(110,175)">
-      <circle r="40" fill="none" stroke="#2c2856" stroke-width="8"/>
-      <circle r="40" fill="none" stroke="url(#ring1)" stroke-width="8" stroke-dasharray="251" stroke-dashoffset="20" stroke-linecap="round" transform="rotate(-90)"/>
-      <text y="6" font-size="20" class="h1">7</text>
-      <text y="65" font-size="13" class="sub">Active Projects</text>
-    </g>
-    <g transform="translate(280,175)">
-      <circle r="40" fill="none" stroke="#2c2856" stroke-width="8"/>
-      <circle r="40" fill="none" stroke="url(#ring1)" stroke-width="8" stroke-dasharray="251" stroke-dashoffset="10" stroke-linecap="round" transform="rotate(-90)"/>
-      <text y="6" font-size="20" class="h1">2</text>
-      <text y="65" font-size="13" class="sub">Domains: HW+SW</text>
-    </g>
-    <g transform="translate(450,175)">
-      <circle r="40" fill="none" stroke="#2c2856" stroke-width="8"/>
-      <circle r="40" fill="none" stroke="url(#ring1)" stroke-width="8" stroke-dasharray="251" stroke-dashoffset="40" stroke-linecap="round" transform="rotate(-90)"/>
-      <text y="0" font-size="15" class="h1">Maker</text>
-      <text y="18" font-size="15" class="h1">Mindset</text>
-      <text y="65" font-size="13" class="sub">Builds from salvage</text>
-    </g>
-    <g transform="translate(620,175)">
-      <circle r="40" fill="none" stroke="#2c2856" stroke-width="8"/>
-      <circle r="40" fill="none" stroke="url(#ring1)" stroke-width="8" stroke-dasharray="251" stroke-dashoffset="60" stroke-linecap="round" transform="rotate(-90)"/>
-      <text y="6" font-size="20" class="h1">10+</text>
-      <text y="65" font-size="13" class="sub">Tools &amp; Stacks</text>
-    </g>
-  </g>
+  <section class="mc-projects">
+    <h2>Featured Projects</h2>
+    <div class="mc-project-grid">
+      <div class="mc-card">
+        <h3>NestCloud</h3>
+        <p>Home server built from salvaged parts</p>
+      </div>
+      <div class="mc-card">
+        <h3>NetSentinel</h3>
+        <p>WiFi intrusion detection on ESP32</p>
+      </div>
+      <div class="mc-card">
+        <h3>Saathi AI</h3>
+        <p>Voice companion assistant</p>
+      </div>
+      <div class="mc-card">
+        <h3>Royal Kitchen POS</h3>
+        <p>Electron/React billing desktop app</p>
+      </div>
+      <div class="mc-card">
+        <h3>RC Trainer Aircraft v2</h3>
+        <p>Custom-built radio-controlled aircraft</p>
+      </div>
+      <div class="mc-card">
+        <h3>WhatsApp Automation Bots</h3>
+        <p>GPT-integrated chatbot automation</p>
+      </div>
+    </div>
+  </section>
 
-  <line x1="30" y1="235" x2="870" y2="235" stroke="#2c2856" stroke-width="1"/>
+  <section class="mc-stack">
+    <h2>Tech Stack</h2>
+    <div class="mc-chips">
+      <span class="chip c1">Python</span>
+      <span class="chip c2">C</span>
+      <span class="chip c3">Node.js</span>
+      <span class="chip c4">React</span>
+      <span class="chip c1">SQL</span>
+      <span class="chip c2">Arduino</span>
+      <span class="chip c3">ESP32</span>
+      <span class="chip c4">ESP8266</span>
+      <span class="chip c1">Raspberry Pi</span>
+    </div>
+  </section>
+</div>
 
-  <!-- featured projects -->
-  <g class="mono">
-    <text x="40" y="262" font-size="15" class="h2">Featured Projects</text>
+<style>
+  * { box-sizing: border-box; }
 
-    <rect x="40" y="278" width="390" height="46" rx="8" class="card"/>
-    <text x="54" y="298" font-size="13" class="body">NestCloud</text>
-    <text x="54" y="315" font-size="11" class="sub">Home server built from salvaged parts</text>
+  .metrics-card {
+    --bg1: #0f0c29;
+    --bg2: #1b1836;
+    --bg3: #24243e;
+    --accent1: #00ff9c;
+    --accent2: #00d4ff;
+    --line: #2c2856;
+    --sub: #9aa4b2;
+    --body: #d7dbe0;
 
-    <rect x="440" y="278" width="420" height="46" rx="8" class="card"/>
-    <text x="454" y="298" font-size="13" class="body">NetSentinel</text>
-    <text x="454" y="315" font-size="11" class="sub">WiFi intrusion detection on ESP32</text>
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 32px;
+    border-radius: 16px;
+    background: linear-gradient(135deg, var(--bg1) 0%, var(--bg2) 55%, var(--bg3) 100%);
+    border: 1px solid rgba(0,255,156,0.25);
+    font-family: 'Courier New', Consolas, monospace;
+    color: var(--body);
+  }
 
-    <rect x="40" y="332" width="390" height="46" rx="8" class="card"/>
-    <text x="54" y="352" font-size="13" class="body">Saathi AI</text>
-    <text x="54" y="369" font-size="11" class="sub">Voice companion assistant</text>
+  .mc-header { display: flex; align-items: center; gap: 18px; }
 
-    <rect x="440" y="332" width="420" height="46" rx="8" class="card"/>
-    <text x="454" y="352" font-size="13" class="body">Royal Kitchen POS</text>
-    <text x="454" y="369" font-size="11" class="sub">Electron/React billing desktop app</text>
+  .mc-avatar {
+    width: 60px; height: 60px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 22px; font-weight: bold; color: #fff;
+    background: var(--bg1);
+    border: 2.5px solid transparent;
+    background-image: linear-gradient(var(--bg1), var(--bg1)), linear-gradient(135deg, var(--accent1), var(--accent2));
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+    flex-shrink: 0;
+  }
 
-    <rect x="40" y="386" width="390" height="46" rx="8" class="card"/>
-    <text x="54" y="406" font-size="13" class="body">RC Trainer Aircraft v2</text>
-    <text x="54" y="423" font-size="11" class="sub">Custom-built radio-controlled aircraft</text>
+  .mc-name { margin: 0 0 4px 0; font-size: 22px; color: #fff; }
+  .mc-sub { margin: 0; font-size: 13px; color: var(--sub); }
 
-    <rect x="440" y="386" width="420" height="46" rx="8" class="card"/>
-    <text x="454" y="406" font-size="13" class="body">WhatsApp Automation Bots</text>
-    <text x="454" y="423" font-size="11" class="sub">GPT-integrated chatbot automation</text>
-  </g>
+  .mc-rule { height: 1px; background: var(--line); margin: 24px 0; }
 
-  <!-- tech stack chips -->
-  <g class="mono" font-size="12">
-    <text x="40" y="455" font-size="15" class="h2">Tech Stack</text>
-  </g>
-  <g class="mono" font-size="12" fill="#0f0c29">
-    <rect x="145" y="440" width="60" height="24" rx="12" fill="#00ff9c"/><text x="157" y="456">Python</text>
-    <rect x="213" y="440" width="46" height="24" rx="12" fill="#00d4ff"/><text x="222" y="456">C</text>
-    <rect x="267" y="440" width="70" height="24" rx="12" fill="#ff6ec7"/><text x="277" y="456">Node.js</text>
-    <rect x="345" y="440" width="60" height="24" rx="12" fill="#ffd166"/><text x="357" y="456">React</text>
-    <rect x="413" y="440" width="60" height="24" rx="12" fill="#00ff9c"/><text x="424" y="456">SQL</text>
-    <rect x="481" y="440" width="72" height="24" rx="12" fill="#00d4ff"/><text x="491" y="456">Arduino</text>
-    <rect x="561" y="440" width="66" height="24" rx="12" fill="#ff6ec7"/><text x="571" y="456">ESP32</text>
-    <rect x="635" y="440" width="80" height="24" rx="12" fill="#ffd166"/><text x="645" y="456">ESP8266</text>
-    <rect x="723" y="440" width="106" height="24" rx="12" fill="#00ff9c"/><text x="733" y="456">Raspberry Pi</text>
-  </g>
-</svg>
+  .mc-stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    text-align: center;
+  }
+
+  .mc-stat p { margin: 12px 0 0 0; font-size: 12.5px; color: var(--sub); }
+
+  .mc-ring {
+    width: 80px; height: 80px;
+    margin: 0 auto;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    background:
+      radial-gradient(closest-side, var(--bg2) 79%, transparent 80% 100%),
+      conic-gradient(var(--accent1) calc(var(--pct) * 1%), var(--line) 0);
+    font-size: 15px; font-weight: bold; color: #fff;
+  }
+
+  .mc-projects h2, .mc-stack h2 {
+    font-size: 15px; color: var(--accent1); margin: 0 0 14px 0;
+  }
+
+  .mc-project-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+
+  .mc-card {
+    background: #171433;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 10px 14px;
+    transition: border-color 0.2s ease, transform 0.2s ease;
+  }
+  .mc-card:hover {
+    border-color: var(--accent1);
+    transform: translateY(-2px);
+  }
+  .mc-card h3 { margin: 0 0 4px 0; font-size: 13px; color: var(--body); }
+  .mc-card p { margin: 0; font-size: 11px; color: var(--sub); }
+
+  .mc-stack { margin-top: 24px; }
+
+  .mc-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+
+  .chip {
+    padding: 5px 14px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: bold;
+    color: var(--bg1);
+  }
+  .chip.c1 { background: var(--accent1); }
+  .chip.c2 { background: var(--accent2); }
+  .chip.c3 { background: #ff6ec7; }
+  .chip.c4 { background: #ffd166; }
+
+  @media (max-width: 640px) {
+    .mc-stats { grid-template-columns: repeat(2, 1fr); }
+    .mc-project-grid { grid-template-columns: 1fr; }
+  }
+</style>
